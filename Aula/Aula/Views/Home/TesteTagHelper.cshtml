@@ -1,0 +1,13 @@
+﻿@using Aula.Enums
+@model ClienteModel
+
+
+<form>
+
+	<input type="text" asp-for="Nome" >
+
+	<input type="password" asp-for="Senha">
+
+	<select asp-for="Sexo" asp-items="Html.GetEnumSelectList<SexoEnum>()"></select>
+
+</form>

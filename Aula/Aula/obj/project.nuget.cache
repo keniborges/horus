@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gR+lpK+nUr/YU1WKC/pLlWTa6W/RVNMKKF0Bl4Zhy2L/BilFePWw2gsPjMpUPwUHHbjNwlIkkNLcnpSjhE217Q==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\Horus\\Aula05\\Aula\\Aula\\Aula.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenib\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}

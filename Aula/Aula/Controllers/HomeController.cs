@@ -16,10 +16,24 @@ namespace Aula.Controllers
         public IActionResult TesteTagHelper()
         {
             var model = new ClienteModel();
+
+            ViewBag.MeuViewBag = "Teste";
+            ViewData["MeuOutroBg"] = "Outro Teste";
+
             return View(model);
         }
 
-        public IActionResult Index()
+        [HttpPost]
+		public IActionResult TesteTagHelper(ClienteModel model)
+		{
+            if (ModelState.IsValid)
+            {
+
+            }
+			return View(model);
+		}
+
+		public IActionResult Index()
         {
             return View();
         }

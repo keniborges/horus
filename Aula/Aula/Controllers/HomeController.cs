@@ -16,10 +16,6 @@ namespace Aula.Controllers
         public IActionResult TesteTagHelper()
         {
             var model = new ClienteModel();
-
-            ViewBag.MeuViewBag = "Teste";
-            ViewData["MeuOutroBg"] = "Outro Teste";
-
             return View(model);
         }
 

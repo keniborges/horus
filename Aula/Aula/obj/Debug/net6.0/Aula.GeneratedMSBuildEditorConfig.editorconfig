@@ -16,16 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\Workspace\Horus\Aula05\Aula\Aula
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Workspace/Horus/Aula05/Aula/Aula/Views/Cliente/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+[D:/Workspace/Horus/Aula05/Aula/Aula/Views/Cliente/Form.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxGb3JtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Workspace/Horus/Aula05/Aula/Aula/Views/Cliente/Listagem.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxMaXN0YWdlbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Workspace/Horus/Aula05/Aula/Aula/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[D:/Workspace/Horus/Aula05/Aula/Aula/Views/Home/Minhaoutra.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNaW5oYW91dHJhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Workspace/Horus/Aula05/Aula/Aula/Views/Home/Privacy.cshtml]
